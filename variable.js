@@ -23,3 +23,14 @@ let subject = 'CSE';
 let flag = true;
 
 let lastExamScore = 87;
+
+/**Operations
+ * Addition
+ * Substraction
+ * Division
+ * Multiplication
+ * Moduls
+ * what is isNaN?
+ * What is a number?
+ * null
+ */
